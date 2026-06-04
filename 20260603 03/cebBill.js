@@ -7,7 +7,7 @@
 //     91-120  28  1000   
 //     121-180 44  1500
 //     >180   85  2100
-ebBillCalculator(181);
+ebBillCalculator(80);
 
 function ebBillCalculator(unit){
     let amount,fixedRate;
